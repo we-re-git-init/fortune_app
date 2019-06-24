@@ -1,1 +1,1 @@
-{message: 'my_fortune route'}
+{message: @fortune}
